@@ -1,12 +1,12 @@
 #!/bin/bash
 clear
-#############################
+##########################################################
 # This pipeline is constructed to analyse the results 
 # of miRNA results and analysis
-# ###########################
+# ########################################################
 
 
-#############################
+##########################################################
 Pip_results_analysis='yes' #Pipeline output Analysis
 input=$PWD/'input/pipOutput_ZE_filtered_fasta_list.txt' # Input file should be constructed with the path of fasta file
 #input=$PWD/'input/pipOutput_SE_filtered_fasta_list.txt'
@@ -21,6 +21,6 @@ if [ $Pip_results_analysis = 'yes' ] #
       echo 'Input file list for frequency check:' $input
       echo 'Output of frequency check:' $output
 fi
-#############################
+##########################################################
 
 
