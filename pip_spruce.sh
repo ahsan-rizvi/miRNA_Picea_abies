@@ -1,6 +1,5 @@
 #!/bin/bash
 clear
-echo 'Bismillah'
 #############################
 # This pipeline is constructed to analyse the results 
 # of miRNA results and analysis
