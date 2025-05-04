@@ -1,10 +1,15 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 #module load PDC matplotlib
 #module load R/4.4.1-cpeGNU-23.12
 #clear
 #echo 'Bismillah'
 #############################
+=======
+clear
+##############################################
+>>>>>>> 604702245697677a381925a81ab09ea564fbcfce
 =======
 clear
 ##############################################
@@ -15,9 +20,12 @@ clear
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #############################
 Pip_results_analysis='no' #Pipeline output Analysis
 =======
+=======
+>>>>>>> 604702245697677a381925a81ab09ea564fbcfce
 ##############################################
 Pip_results_analysis='yes' #Pipeline output Analysis
 input=$PWD/'input/pipOutput_ZE_filtered_fasta_list.txt' # Input file should be constructed with the path of fasta file
@@ -58,5 +66,5 @@ if [ $DESeq2_SE_miRNA = 'yes' ] #
            $PWD/input/Design_ZE_miRNA.csv \
            $PWD/output/
 fi
-#############################
+##############################################
 
