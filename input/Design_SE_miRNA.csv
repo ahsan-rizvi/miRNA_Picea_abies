@@ -1,0 +1,24 @@
+SubmittedID,stage,replicate,description,ID
+P7854_101,S1,R1-2,pro-embryogenic masses,P7854_101
+P7854_102,S1,R1-3,pro-embryogenic masses,P7854_102
+P7854_103,S1,R1-4,pro-embryogenic masses,P7854_103
+P7854_104,S2,R2-2,early maturing embryos,P7854_104
+P7854_105,S2,R2-3,early maturing embryos,P7854_105
+P7854_106,S2,R2-4,early maturing embryos,P7854_106
+P7854_107,S3,R3-4,mid stage maturing embryos,P7854_107
+P7854_108,S3,R3-2,mid stage maturing embryos,P7854_108
+P7854_109,S3,R3-3,mid stage maturing embryos,P7854_109
+P7854_110,S4,R4-2,late stage maturing embryos,P7854_110
+P7854_111,S4,R4-3,late stage maturing embryos,P7854_111
+P7854_112,S4,R4-4,late stage maturing embryos,P7854_112
+P7854_113,S5,R5-2,mature embryos,P7854_113
+P7854_114,S5,R5-3,mature embryos,P7854_114
+P7854_115,S5,R5-4,mature embryos,P7854_115
+P7854_116,S6,R6-2,dessiccation,P7854_116
+P7854_117,S6,R6-3,dessiccation,P7854_117
+P7854_118,S6,R6-4,dessiccation,P7854_118
+P7854_119,S7,R7-2,roots,P7854_119
+P7854_121,S7,R7-3,roots,P7854_121
+P7854_122,S8,R8-2,planting stage,P7854_122
+P7854_123,S8,R8-3,planting stage,P7854_123
+P7854_124,S8,R8-4,planting stage,P7854_124
