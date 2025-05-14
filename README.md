@@ -26,5 +26,7 @@ File and folder structure of the repository is as follows:
 ```
 ## Prerequisites
 R: For running .R scripts (e.g., DESeq2, GO_enrich2.R). Install required packages such as DESeq2 and others specified in the scripts.
+
 Python: For running .py scripts. Ensure dependencies like pandas, matplotlib, and seaborn are installed (use pip install -r requirements.txt if provided).
+
 Input data files must be placed in the input/ directory before running scripts.
