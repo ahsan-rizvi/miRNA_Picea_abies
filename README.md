@@ -27,11 +27,26 @@ File and folder structure of the repository is as follows:
 ## Prerequisites
 R: For running .R scripts (e.g., DESeq2, GO_enrich2.R). Install required packages such as DESeq2 and others specified in the scripts.
 
-Python: For running .py scripts. Ensure dependencies like pandas, matplotlib, and seaborn are installed (use pip install -r requirements.txt if provided).
+Python: For running .py scripts. Ensure dependencies like pandas, matplotlib, and seaborn are installed.
 
 Input data files must be placed in the input/ directory before running scripts.
 
+## Usage
 
+1. Clone the repository:
+
+git clone https://github.com/<your-username>/miRNA_Picea_abies.git
+
+2. Place input data files in the input/ directory.
+
+3. Run the scripts in the script/ directory as needed. For example:
+
+Rscript script/DESeq_SE.R
+
+python script/RPM_calculator.py
+
+4. Output files will be generated in the output/ directory.
+   
 ## Notes
 Ensure input files are formatted as expected by each script (refer to script documentation or comments).
 
