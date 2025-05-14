@@ -11,7 +11,7 @@ The file structure of the repository is as follows:
 |   ├── GO_enrich2.R # R script for GO enrichment analysis
 |   ├── Heatmap_group_SE_M3.py # Python script for Heatmap generation for miRNA groups
 |   ├── RPM_calculator.py # Script for counts to Reads Per Million (RPM) calculator
-|   ├── SE_UP_DN_analysis.py  # These script will check miRNA mRNA opposite expressions
+|   ├── SE_UP_DN_analysis.py  # This script will check miRNA mRNA opposite expressions
 |── secondry_files/ # This folder contains secondry files generated from the exicutions of the scripts
 ├── README.md       # Project overview and instructions
 ├── pip_spruce.sh   # pipeline for miRNA analysis         
