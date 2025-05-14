@@ -17,6 +17,8 @@ File and folder structure of the repository is as follows:
 |   ├── ZE_UP_DN_analysis.py  # This script will check miRNA mRNA opposite expressions of ZE
 |   ├── fasta_seq_size_checker.py # This script will check the distributions of miRNAs sequence size
 |   ├── mirDP2_mature_miRNA_analysis.py # mirDP2 output Picea_miRNA analysis
+|   ├── mirDP2_result_analysis.py # mirDP2 result comparision
+|   ├── pre_processing_for_mirDP2.py # Input file maker for mirDP2 
 |── secondry_files/ # This folder contains secondry files generated from the exicutions of the scripts
 ├── README.md       # Project overview and instructions
 ├── pip_spruce.sh   # pipeline for miRNA analysis         
