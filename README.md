@@ -40,11 +40,11 @@ git clone https://github.com/ahsan-rizvi/miRNA_Picea_abies.git
 2. Place input data files in the input/ directory.
 
 3. Run the scripts in the script/ directory as needed. For example:
-
+```
 Rscript script/DESeq_SE.R
 
 python script/RPM_calculator.py
-
+```
 4. Output files will be generated in the output/ directory.
    
 ## Notes
