@@ -30,3 +30,9 @@ R: For running .R scripts (e.g., DESeq2, GO_enrich2.R). Install required package
 Python: For running .py scripts. Ensure dependencies like pandas, matplotlib, and seaborn are installed (use pip install -r requirements.txt if provided).
 
 Input data files must be placed in the input/ directory before running scripts.
+
+
+## Notes
+Ensure input files are formatted as expected by each script (refer to script documentation or comments).
+
+Scripts assume specific data structures; verify compatibility with your data before execution.
