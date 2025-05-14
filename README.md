@@ -6,8 +6,9 @@ The file structure of the repository is as follows:
 ├── input/  # This folder contains all input files required for scripts
 ├── output/ # This folder contains all output files generated from the exicutions of the scripts
 |── script/ # This folder contains scripts developed for miRNA analysis
-|   ├── DESeq_SE.R # R script for DGE, VST, PCA analysis for SE
-|   ├── DESeq_ZE.R # R script for DGE, VST, PCA analysis for ZE
+|   ├── DESeq_SE.R   # R script for DGE, VST, PCA analysis for SE
+|   ├── DESeq_ZE.R   # R script for DGE, VST, PCA analysis for ZE
+|   ├── GO_enrich2.R # R script for GO enrichment analysis
 |── secondry_files/ # This folder contains secondry files generated from the exicutions of the scripts
 ├── README.md       # Project overview and instructions
 ├── pip_spruce.sh   # pipeline for miRNA analysis         
