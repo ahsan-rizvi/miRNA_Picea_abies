@@ -1,6 +1,10 @@
 # miRNA_Picea_abies
 Analysis of miRNA dynamics in Norway spruce (Picea abies) embryogenesis:
+
+
 This repository contains scripts and data for analyzing microRNA (miRNA) dynamics during Norway spruce embryogenesis, including differential gene expression (DGE), variance-stabilized transformation (VST), principal component analysis (PCA), and other analyses for somatic embryogenesis (SE) and zygotic embryogenesis (ZE).
+
+
 ## File and folder Structure
 File and folder structure of the repository is as follows:
 ```.
