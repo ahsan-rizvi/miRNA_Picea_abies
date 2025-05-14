@@ -34,9 +34,9 @@ Input data files must be placed in the input/ directory before running scripts.
 ## Usage
 
 1. Clone the repository:
-
+```
 git clone https://github.com/ahsan-rizvi/miRNA_Picea_abies.git
-
+```
 2. Place input data files in the input/ directory.
 
 3. Run the scripts in the script/ directory as needed. For example:
