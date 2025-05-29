@@ -45,7 +45,7 @@ git clone https://github.com/ahsan-rizvi/miRNA_Picea_abies.git
 
 3. Run the scripts:
 ```
-.\pip_spruce.sh
+bash pip_spruce.sh
 ```
 4. Output files will be generated in the output/ directory.
    
