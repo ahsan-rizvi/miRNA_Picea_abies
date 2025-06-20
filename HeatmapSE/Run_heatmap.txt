@@ -1,0 +1,1 @@
+./Heatmap_group_SE_M4.py ./GroupA.txt ./GroupB.txt ./GroupC.txt ./Picea_mature_known_id.txt ./Picea_mature_known_id.txt.MiRbase.O.csv ./DGE_SE_VST.txt ./VST_SE_CC_negative_pair.csv ./NAT_miRNA.txt ./Picab02_go_ids.csv ./VST_SE_CC_negative_pair.csv
