@@ -1,0 +1,1 @@
+./ZE_UP_DN_analysis.py ./ZE_psRNATargetJob-1733149339678709.txt ./ZE_Log2FC_miRNA.csv ./ZE_Log2FC_mRNA_p02.csv

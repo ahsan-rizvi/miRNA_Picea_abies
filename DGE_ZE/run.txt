@@ -1,0 +1,1 @@
+./DESeq4_ZE.R ./ZE_p_prediction_list.xyz.id.txtcountTable.txt ./Design_ZE_miRNA2.txt

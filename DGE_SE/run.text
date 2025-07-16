@@ -1,0 +1,1 @@
+./DESeq8_SE.R ./SE_p_prediction_list.xyz.id.txtcountTable.txt ./Design_SE_miRNA.txt

@@ -1,0 +1,1 @@
+./VST_correlation_check_ZE_ZE.py ./ZE_psRNATargetJob-1751290166860425.txt ./DGE_ZE_VST.txt ./mRNA_DGE_ZE_VST.txt ./VST_ZE_CC_negative_pair.csv NCC_ZE/

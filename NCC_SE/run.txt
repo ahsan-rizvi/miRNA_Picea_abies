@@ -1,0 +1,1 @@
+./VST_correlation_check_SE.py ./SE_psRNATargetJob-1751289926992888.txt ./DGE/DGE_SE_VST.txt ./mRNA_DGE_SE_VST.txt ./VST_SE_CC_negative_pair.csv
