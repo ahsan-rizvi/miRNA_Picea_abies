@@ -30,3 +30,9 @@ bash pip_spruce.sh
 Ensure input files are formatted as expected by each script (refer to script documentation or comments).
 
 Scripts assume specific data structures; verify compatibility with your data before execution.
+
+## Contact
+
+Ahsan Z Rizvi
+ahsan.zaigam@gmail.com
+
